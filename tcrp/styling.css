@@ -1,0 +1,33 @@
+
+/* Basic CSS elements - will be edited to align with Figma prototypes */
+header{
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+footer{
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+body{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+img{
+    max-width: 100%;
+    height: auto;
+}
+
+/* Navigation bar */
+nav{
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
